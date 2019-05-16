@@ -1,0 +1,30 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ultravision.com.ua/slide" resolutions="1x" timestamp="1478706427709">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="385878604" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="right-arrow(left).png" crc="4237407049" ref="index"/>
+    <file name="right-arrow.png" crc="4044093949" ref="index"/>
+    <file name="d60690_6874e0bcb89749a7861eebf09078c152.jpg" crc="412383034" ref="index"/>
+    <file name="d60690_a7fbf2c0aa9d409f94a4a295b874c6fe.jpg" crc="3914999406" ref="index"/>
+    <file name="d60690_c8fe789c77924d60a4d4a5474ecc2450.jpg" crc="374412089" ref="index"/>
+    <file name="d60690_f8436e1fee8a4f4eba56c1681c338caf.jpg" crc="158799555" ref="index"/>
+    <file name="d60690_fd225cb958f249838981d43a2359cbe9.jpg" crc="470634271" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3776817233" seo="true" mt="1478706427225" redirect="true"/>
+</manifest>

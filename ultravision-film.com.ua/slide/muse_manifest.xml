@@ -1,0 +1,34 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ultravision.com.ua/slide" resolutions="1x" timestamp="1478700722710">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="28673274" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="d60690_abd3b03b16fc425ead2450abcd2cab60.jpg" crc="4097240449" ref="index"/>
+    <file name="d60690_8f5f8fbf09e74618aefc1a3ad27b6b84.jpg" crc="187756432" ref="index"/>
+    <file name="d60690_59e0d76c7e894cc7b7821e0f9c228c06.jpg" crc="152696808" ref="index"/>
+    <file name="d60690_0841d1f25c144f32b99318407ae28e17.jpg" crc="4023500196" ref="index"/>
+    <file name="d60690_cf57506e3726452788820f1aa89f11e9.jpg" crc="4278247378" ref="index"/>
+    <file name="d60690_d88c905862bc4705b0c93bbc7a30a917.jpg" crc="3986303551" ref="index"/>
+    <file name="d60690_d3581f391b5b4e72b5adf79b32d92ce1.jpg" crc="4146708169" ref="index"/>
+    <file name="d60690_dd69723f33e24a789d6039a867af8010.jpg" crc="3952555253" ref="index"/>
+    <file name="d60690_f654718a51564dfda3b5c62219e3d64c.jpg" crc="281793681" ref="index"/>
+    <file name="right-arrow(left).png" crc="4237407049" ref="index"/>
+    <file name="right-arrow.png" crc="4044093949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4225857300" seo="true" mt="1478700662000" redirect="true"/>
+</manifest>

@@ -1,0 +1,32 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ultravision.com.ua/slide" resolutions="1x" timestamp="1478705917250">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="431144061" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="right-arrow(left).png" crc="4237407049" ref="index"/>
+    <file name="right-arrow.png" crc="4044093949" ref="index"/>
+    <file name="d60690_3d18e7a44e6e4a4999531ae5b609bef1.jpg" crc="4013267481" ref="index"/>
+    <file name="d60690_5a8753f3e5854145929f932861081ff1.jpg" crc="339279309" ref="index"/>
+    <file name="d60690_07821a85aed34b2893ae3757888d745f.jpg" crc="4255809564" ref="index"/>
+    <file name="d60690_a93ef0619b204fefa68c6942d217832a.jpg" crc="28076049" ref="index"/>
+    <file name="d60690_ad07167001414af2877814ec29a66590.jpg" crc="439986604" ref="index"/>
+    <file name="d60690_d5babc68743f4a8b932db7c0f1ca6538.jpg" crc="163367436" ref="index"/>
+    <file name="d60690_f7d2063f278d493a8ae1993b114a13cf.jpg" crc="101741062" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4256428652" seo="true" mt="1478705916626" redirect="true"/>
+</manifest>
